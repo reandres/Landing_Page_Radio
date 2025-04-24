@@ -1,4 +1,4 @@
-My first landing page
+Landing page Own radio
 
 💻 Technologies Used:
 HTML – creating the semantic structure of web pages.
