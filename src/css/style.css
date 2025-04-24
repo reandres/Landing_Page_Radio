@@ -6,6 +6,7 @@
 
 
 .container {
+    position: relative;
     max-width: 1140px;
     margin: 0 auto;
 }
@@ -156,3 +157,36 @@
     color: #4a4a4a;
 }
 
+.info {
+    min-height: 564px;
+    background-color: #0F0B0B;
+    padding: 100px 0 140px 0;
+}
+
+.info__title {
+    font-size: 30px;
+    color: #f9bf3b;
+    text-align: right;
+}
+
+.info__text {
+    position: relative;
+    padding-left: 390px;
+    margin-top: 19px;
+    font-weight: 300;
+    font-size: 16px;
+    text-align: right;
+    color: #fff;
+    z-index: 2;
+}
+
+.info__text.medium {
+    font-weight: 500;
+}
+
+.info__img{
+    position: absolute;
+    top: 93px;
+    left: -83px;
+    z-index: 1;
+}
