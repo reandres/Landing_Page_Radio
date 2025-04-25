@@ -189,6 +189,7 @@
     top: 93px;
     left: -83px;
     z-index: 1;
+    border-radius: 8px;
 }
 
 .skills {
@@ -251,4 +252,43 @@
 
 .btn {
     margin-top: 60px;
+}
+
+.webinar-announcement {
+    background-color: #0f0d0d; 
+    min-height: 428px;
+    padding: 50px 0;
+}
+
+.webinar-announcemen__img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
+.webinar-announcement h2 {
+    margin-top: 40px;
+    font-weight: 500;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+}
+
+.webinar-announcement .highlight {
+    margin-top: 20px;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 100%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #f9bf3b;
+}
+
+.webinar-announcement p {
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 23px;
+    text-align: center;
+    color: #efefef;
 }
