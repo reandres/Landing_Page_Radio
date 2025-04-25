@@ -231,3 +231,24 @@
 }
 
 
+.present {
+    padding: 80px 0;
+}
+
+.present__img {
+    display: block;
+    margin: 0 auto;
+}
+
+.present__desc {
+    margin-top: 80px;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 150%;
+    text-align: center;
+    color: #252525;
+}
+
+.btn {
+    margin-top: 60px;
+}
