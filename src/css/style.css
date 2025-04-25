@@ -227,6 +227,10 @@
     border-radius: 100%;
 }
 
+.skills__img {
+    max-width: 60px;
+}
+
 .skills__desc {
     margin-top: 18px;
     font-weight: 300;
