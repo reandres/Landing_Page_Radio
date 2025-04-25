@@ -292,3 +292,28 @@
     text-align: center;
     color: #efefef;
 }
+
+
+.footer {
+    min-height: 165px;
+    background-color: #1A1A1A;
+    padding: 58px 0;
+}
+
+.wrapper__link {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    width: 180px;
+    margin: 0 auto;
+}
+
+.link {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 150%;
+    text-decoration-skip-ink: none;
+    text-align: center;
+    color: #888;
+}
+
